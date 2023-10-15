@@ -2,6 +2,7 @@
   "name": "myportfoliosite",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://VASUK-09.github.io/20-React-Portfolio",
   "dependencies": {
     "gh-pages": "^6.0.0",
     "react": "^16.2.0",
