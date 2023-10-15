@@ -50,7 +50,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Links to Github Page
 https://vasuk-09.github.io/20-React-Portfolio/
 
-## Link to Github Repository
+## Link to Github RepositoryVasu
 https://github.com/VASUK-09/20-React-Portfolio.git
 
  
